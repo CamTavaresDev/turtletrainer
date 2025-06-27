@@ -17,9 +17,6 @@ end
 
 
 
-
-
-
 -- Create the main frame
 local skillbrowser = CreateFrame("Frame", "SkillBrowser", UIParent, BackdropTemplateMixin and "BackdropTemplate")
 skillbrowser:SetWidth(384)

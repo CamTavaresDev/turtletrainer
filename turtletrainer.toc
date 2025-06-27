@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: TurtleTrainer
-## Notes: Simple trainer spells printout in chat
+## Notes: TurtleTrainer allows you to see skills available and upcoming from anywhere
 ## Version: 1.0
 
 turtletrainer.xml
