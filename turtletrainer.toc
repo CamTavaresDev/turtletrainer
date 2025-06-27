@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: TurtleTrainer
+## Notes: Simple trainer spells printout in chat
+## Version: 1.0
+
+turtletrainer.xml
+turtletrainerdata.lua
+turtletrainer.lua
+
