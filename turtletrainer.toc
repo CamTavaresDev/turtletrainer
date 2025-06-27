@@ -1,7 +1,8 @@
 ## Interface: 11200
 ## Title: TurtleTrainer
 ## Notes: TurtleTrainer allows you to see skills available and upcoming from anywhere
-## Version: 1.0
+## Version: 0.1
+## Author: SystemChips
 
 turtletrainer.xml
 turtletrainerdata.lua
