@@ -1,0 +1,1 @@
+This is an addon for Turtle WoW that allows people to see what spells they have available at any place in the world.
